@@ -1,8 +1,8 @@
 # Some of the mini projects created for better understanding of web development :)
-Simon Game
+-> Simon Game
 
-TinDog
+-> TinDog
 
-Drum Kit
+-> Drum Kit
 
-Dice Challenge
+-> Dice Challenge
