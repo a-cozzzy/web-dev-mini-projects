@@ -5,4 +5,4 @@
 
 -> Drum Kit
 
--> Dice Challenge
+-> Luck Dice Challenge
