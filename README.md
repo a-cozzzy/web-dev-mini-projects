@@ -1,8 +1,11 @@
-# Some of the mini projects created for better understanding of web development :)
--> Simon Game
+# Mini Projects for Web Development Practice
 
--> TinDog
+`My Book Collection` – Built with `Node.js`, `Express`, `MySQL`, `React`
 
--> Drum Kit
+`Simon Game` – Created using `HTML`, `CSS`, `JavaScript`, `jQuery`
 
--> Luck Dice Challenge
+`TinDog` – Developed with `HTML`, `CSS`, `JavaScript`, `Bootstrap`
+
+`Drum Kit` – Made using `HTML`, `JavaScript`, `TailwindCSS`
+
+`Dice Challenge` – Built with `HTML`, `CSS`, `JavaScript`
